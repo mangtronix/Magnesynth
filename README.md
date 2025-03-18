@@ -1,0 +1,2 @@
+# StringThing
+Modular string synthesizer
