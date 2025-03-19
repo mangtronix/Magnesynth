@@ -11,3 +11,7 @@ Recommended settings:
     - Fill density: 40%
     - Fill pattern: Cubic
 
+Parts required:
+  - 4x tuning machines, e.g. [1 Set GUYKER Chrome Locking Guitar Machine Heads Tuners Gear Ratio 1:18](https://www.aliexpress.com/item/1005008338893519.html)
+  - 5x M5 nut
+  - 5x M5 round head bolt 12mm
