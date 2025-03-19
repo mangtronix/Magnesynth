@@ -1,4 +1,4 @@
-# TB100 Tuner Block
+# TB-100 Tuner Block
 
 **These parts needs to be strong!** The tuner block and nut hold the tension from the strings.
 
