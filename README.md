@@ -16,5 +16,5 @@ Rail parts
 - 4x 3030 T-slot L corner bracket - [Amazon AE](https://www.amazon.ae/dp/B0CHFF6B6S)
 - 3030 corner brace - for holding strings - [Amazon AE](https://www.amazon.ae/dp/B0BFW3GV5R)
 - M6 hammer bolts w/hex nut - for panels
-- M5 round head bolts (8mm, 12mm) with M5 nut - for tuner block - [Amazon AE](https://www.amazon.ae/dp/B0CHMN8DZ2)
+- M5 round head bolts with M5 nut - 8mm for shelves, 12mm for tuner block - [Amazon AE](https://www.amazon.ae/dp/B0CHMN8DZ2)
 
