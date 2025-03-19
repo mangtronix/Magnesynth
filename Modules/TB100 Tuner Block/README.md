@@ -17,3 +17,8 @@ Parts required:
   - 4x tuning machines, e.g. [1 Set GUYKER Locking Guitar Machine Heads 6R](https://www.aliexpress.com/item/1005008338893519.html)
   - 5x M5 nut
   - 5x M5 round head bolt 12mm
+
+
+Dimensions of Guyker locking tuner used in reference design
+![Dimensions of Guyker locking tuner
+](guyker-locking-tuner-dimensions.png)
