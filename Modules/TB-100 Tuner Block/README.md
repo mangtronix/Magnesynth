@@ -2,7 +2,9 @@
 
 **These parts needs to be strong!** The tuner block and nut hold the tension from the strings.  Use at your own risk.
 
-I recommend printing these parts in **PETG** (ASA/ABS would also likely work).  **I do NOT recommend printing these parts in PLA**.  PLA is likely to fail catastrophically (crack) over time.  
+I recommend printing these parts in **PETG** (ASA/ABS would also likely work).
+
+**I do NOT recommend printing these parts in PLA**.  PLA is likely to fail catastrophically (crack) over time.  
 
 With the Guyker tuning machines listed below the tab on the tuners keeps them from rotating against the block. Otherwise you can use the screws provided with the tuners to keep the tuners from rotating.
 
