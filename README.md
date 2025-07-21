@@ -1,5 +1,5 @@
-# StringThing
-Modular string synthesizer
+# Magnesynth
+Modular synthesizer combining physical strings, modular synthesis, physical computing, and electromagnetic phenomena
 
 A full system is
 - CB-100 Center Bridge with handle
