@@ -1,4 +1,5 @@
 # Magnesynth
+
 Modular synthesizer combining physical strings, modular synthesis, physical computing, and electromagnetic phenomena
 
 A full system is
@@ -18,3 +19,6 @@ Rail parts
   - Cut slots using TOOL-100 String holder cut guide
 - M6 hammer bolts w/hex nut - for panels
 - M5 round head bolts with M5 nut - 8mm for shelves, 12mm for tuner block - [Amazon AE](https://www.amazon.ae/dp/B0CHMN8DZ2)
+
+![Michael_Ang-Magnesynth](https://github.com/user-attachments/assets/c9b28056-3a09-4771-bd56-8f348000b6c5)
+[Mang](https://michaelang.com) performing on the Magnesynth
