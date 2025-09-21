@@ -11,6 +11,10 @@ Parts:
 - [TipTop Z-rails brackets](https://tiptopaudio.com/z-rails-brackets/)
 
 Example setup with instrument input, effects, and line level output.
+
+![IMG_9194](https://github.com/user-attachments/assets/0588a668-33d4-467e-abc1-789510e1acd9)
+
+
 <img width="737" height="481" alt="Magnesynth v1 40hp clean" src="https://github.com/user-attachments/assets/aae281b1-a734-4d91-83a0-def462c56194" />
 
 [Magnesynth v1 40hp Modulargrid Rack](https://modulargrid.net/e/racks/view/2945002)
